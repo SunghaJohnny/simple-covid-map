@@ -1,3 +1,6 @@
+# A simple World Covid Map using Folium Library 
+# Author: John de Veyra
+# July 26, 2021
 import folium
 import pandas as pd
 
